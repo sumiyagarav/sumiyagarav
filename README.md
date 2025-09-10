@@ -1,7 +1,7 @@
 ## Hi there 👋
-<h1>
+<h3>
   Hi my name is sumi
-</h1>
+</h3>
 <b1>
   - 🌱 I’m currently learning python and java
 </b1>
