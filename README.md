@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h3>
-  Hi my name is sumi
+  My name is sumi!
 </h3>
 <b1>
   - 🌱 I’m currently learning python and java
