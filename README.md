@@ -3,7 +3,7 @@
   My name is sumi!
 </h3>
 <b1>
-  - 🌱 Nice to meet you!
+   Nice to meet you!
 </b1>
 <!--
 **sumiyagarav/sumiyagarav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
